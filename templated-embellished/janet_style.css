@@ -1,0 +1,41 @@
+#coffeeparagraph{
+    color: green;
+    ;
+}
+
+#darklink{
+    color: hotpink !important;
+}
+
+.test_ul{
+    background-color:pink;
+}  
+
+.border_1{
+    border: dashed 1px black;
+}
+
+#page3_font{
+    font-family: inherit bold;
+}
+
+#page4_background{
+    background-color: cornflowerblue;
+}
+
+#welcome_background{
+    background-color: wheat;
+}
+
+
+#footerfont{
+    font-family: cursive;
+}
+
+#headerfont{
+    font-style: italic;
+}
+
+#footer{
+    background-color: wheat;
+}
